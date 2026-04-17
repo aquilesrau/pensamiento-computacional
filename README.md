@@ -10,6 +10,6 @@ ejercicios y entregas de pensamiento computacional
 - e
 - una lita
 
-![link](https://youtu.be/dQw4w9WgXcQ?si=qimdht_UErVkmqi5)
+![link](https://youtu.be/dQw4w9WgXcQ?si=slYnrRkDAnf8G10c)
 
 ![texto alternativo imagen](AqImagenesPC/Toby.png)
