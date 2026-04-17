@@ -12,4 +12,4 @@ ejercicios y entregas de pensamiento computacional
 
 ![link](https://youtu.be/dQw4w9WgXcQ?si=qimdht_UErVkmqi5)
 
-![texto alternativo imagen](AqImagenesPC/Toby.png
+![texto alternativo imagen](AqImagenesPC/Toby.png)
