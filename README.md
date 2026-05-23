@@ -12,6 +12,6 @@ ejercicios y entregas de pensamiento computacional
 
 ![link]()
 
-![texto alternativo imagen]()
+![texto alternativo imagen](descarga (1).png)
 
 **Solemne 02 / Blinding Journey**
