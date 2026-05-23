@@ -27,13 +27,13 @@ Pensamiento Computacional |  22/05/2026
 
 Se nos presenta una pieza de arte interactivo, el cual cuenta con un estilo minimalista inspirado en el viedojuego de explortacion "Journey", se trata de una composicion donde podemos observar un vasto entorno desértico compuesto por capas de dunas y montañas geométricas con tonos de tierra rojizos, donde una silueta con tunicas rojas da la espla al espectador observando el horizonte. En el centro superior destaca un sol resplandeciente la cual reposa sobre una imponente montaña que cubre gran parte del cielo. La posición Y del mouse cambia la tonalidad del cielo y de las nubes haciendo que estas transicionen cromáticamente, simulando el paso del día a la tarde, al mismo tiempo que altera la altura de las dos esferas que componen el sol.
 
-Journey presenta un input que al acercar el cursor a la cima de la montaña principal, genera como output un destello estelar de cuatro puntas que se expande de manera proporcional a la distancia del mouse, revelando la meta del viaje.
+El input presenta una accion que hace que al acercar el cursor a la cima de la montaña principal, generando como output un destello estelar de cuatro puntas que se expande de manera proporcional a la distancia del mouse, al igual que el cambio del color en su ambiente pasando de colores calidos a unos frios.
 
 # DESCRIPCIÓN CONCEPTUAL
 
-La idea detras de Blinding Journey es explorar el concepto del "Viaje y Deseado Destino", permitiendo al usuario alterar la atmósfera del entorno mediante una interacción breve pero continua. Es fuertemente la presencia del arte generativo y el minimalismo, ya que, al igual que su inspiracion (Journey), la obra renuncia al detalle realista y reduce el paisaje a vectores limpios, enfocandose un el uso plano del color y polígonos puros para crear un espacio que se sienta extenso.
+Blinding Journey busca explorar el concepto del "Viaje y Deseado Destino", dejando al que la atmósfera sea alterar por el usuario mediante una interacción pero continua. Es fuertemente la presencia del arte generativo y el minimalismo, ya que, al igual que su inspiracion (Journey), la obra renuncia al detalle realista y reduce el paisaje a vectores limpios, enfocandose un el uso plano del color y polígonos puros para crear un espacio que se sienta extenso.
 
-En este proyecto se utilizaron repeticiones de patrones poligonales y proporciones basadas en la escala, trabajando con la relación de tamaño entre la inmensidad del entorno y la pequeñez del individuo, creando una relacion con el usuario donde no controla al personaje, sino que altera las condiciones del mundo que este habita.
+Se utilizaron repeticiones de patrones poligonales y proporciones basadas en la escala del espacio, trabajando con la relación de tamaño entre la inmensidad del entorno y la pequeñez del individuo, creando una relacion con el usuario donde no controla al personaje, sino que altera las condiciones del mundo que este habita.
 
 # REFERENTES
 
@@ -47,7 +47,7 @@ Hecha en 1818 por Caspar David Friedrich, esta obra del Romanticismo sirvió com
 
 ### Journey
 
-Desarrollado en 2012 por *Thatgamecompany* y dirigido por Jenova Chen, es el referente directo del proyecto. Su dirección de arte inspiró la paleta cromática desértica, el diseño de la silueta del personaje con túnica y la presencia magnética de una montaña luminosa en el horizonte que funciona como foco de atencion de manera constante.
+El juergo "Journey" fue desarrollado en 2012 por *Thatgamecompany* y dirigido por Jenova Chen, es el referente directo del proyecto. Su dirección de arte inspiró la paleta cromática desértica, el diseño de la silueta del personaje con túnica y la presencia magnética de una montaña luminosa en el horizonte que funciona como foco de atencion de manera constante.
 
 
 
@@ -57,11 +57,11 @@ Desarrollado en 2012 por *Thatgamecompany* y dirigido por Jenova Chen, es el ref
 
 ### Reglas del sistema
 
-El lienzo funciona como un paisaje geométrico interactivo estructurado por capas de profundidad creadas a base de (quad y triangle). Si el usuario mueve el cursor verticalmente, la atmósfera es alterada de un estado de atardecer cálido a uno más frío y opaco mediante interpolación de color. El sol sigue la posición del mouse en el eje Y pero está regido por dos variables de velocidad distintas (speed1 = 0.04 y speed2 = 0.70), generando un desfase visual. Finalmente, si la distancia entre el mouse y la cima es menor a 75 píxeles, el sistema activa un destello estelar que escala proporcionalmente a la cercanía.
+El lienzo funciona como un paisaje geométrico interactivo estructurado por capas de profundidad creadas a base de (quad y triangle). Si el cursor se mueve verticalmente, la atmósfera es alterada y pasa de un estado de atardecer cálido a uno más frío y opaco mediante interpolación de color. El sol sigue la posición del mouse en el eje Y pero está regido por dos variables de velocidad distintas (speed1 = 0.04 y speed2 = 0.70), generando un desfase visual. Finalmente, si la distancia entre el mouse y la cima es menor a 75 píxeles, el sistema activa un destello estelar que escala proporcionalmente a la cercanía.
 
 ### Modelo de interactividad
 
-Blinding Journey combina dos capas de relación con el usuario. Por un lado, la interactividad continua ocurre al desplazar el mouse en el eje vertical, permitiendo transformar en tiempo real la iluminación del cielo, las nubes y la posición desfasada del sol. Junto a esto, cuenta con una interactividad implícita por proximidad, que se gatilla al acercar el cursor al destino, desencadenando una fenomeno visual que hace florecer el destello geométrico en la cima de la montaña a la par que llegue el sol a la cima.
+Blinding Journey tiene 2 formas de interactuar con el usuario.Lla primera es la interactividad continua que ocurre al desplazar el mouse por eje vertical, permitiendo transformar la iluminación del cielo, las nubes y la posición desfasada del sol con movimientos simples. Tambien cuenta con una interactividad que es implícita por proximidad, la cual se gatilla al acercar el cursor al destino, desencadenando una fenomeno visual que hace florecer el destello geométrico en la cima de la montaña a la par que llegue el sol a la cima.
 
 ### Flujo de datos
 
