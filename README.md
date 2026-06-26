@@ -109,6 +109,8 @@ Hecha en 1818 por Caspar David Friedrich, esta obra del Romanticismo sirvió com
 ### Journey
 Al igual que en la entrega anterior,el referente directo es el juego "Journey", desarrollado en 2012 por *Thatgamecompany* y dirigido por Jenova Chen, es el referente directo del proyecto. Su dirección de arte inspiró la paleta cromática desértica, el diseño minimalista y la presencia magnética de un elemento luminoso en el horizonte que funciona como foco de atención constante.
 
+![texto alternativo imagen](AqImagenesPC/imsisifo.jpg)
+
 ### El Mito de Sísifo
 Un referente usado en una de las laminas fue el de El Mito de Sísifo, que
 
