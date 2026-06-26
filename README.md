@@ -112,7 +112,7 @@ Al igual que en la entrega anterior,el referente directo es el juego "Journey", 
 ![texto alternativo imagen](AqImagenesPC/imsisifo.png)
 
 ### El Mito de Sísifo
-Un referente usado en una de las laminas fue el de El Mito de Sísifo, que
+Un referente usado en una de las laminas fue el de El Mito de Sísifo, que representa el sinsentido y el esfuerzo constante de la condición humana frente a un destino inalterable, el cual se alinea especialmente con el sentimiento que busca transmitir la composicion del codigo
 
 ## INPUTS, OUTPUTS, SISTEMA
 
