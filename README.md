@@ -80,6 +80,8 @@ Blinding Journey tiene 2 formas de interactuar con el usuario.Lla primera es la 
 
 https://editor.p5js.org/aquiles.rau/sketches/NAbixNy92
 
+https://editor.p5js.org/aquiles.rau/full/NAbixNy92
+
 # **Examen / A Long Journey (Nueva Versión)**
 
 Hecho por Aquiles Rau  
