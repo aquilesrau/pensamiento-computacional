@@ -76,7 +76,7 @@ Blinding Journey tiene 2 formas de interactuar con el usuario.Lla primera es la 
 # Pensamiento-Computacional
 Ejercicios y entregas de pensamiento computacional.
 
-https://editor.p5js.org/aquiles.rau/sketches/vT9dt2wAb
+https://editor.p5js.org/aquiles.rau/sketches/NAbixNy92
 
 # **Examen / A Long Journey (Nueva Versión)**
 
