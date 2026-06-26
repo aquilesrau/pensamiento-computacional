@@ -74,7 +74,7 @@ Blinding Journey tiene 2 formas de interactuar con el usuario.Lla primera es la 
 
 
 # Pensamiento-Computacional
-Ejercicios y entregas de pensamiento computacional.
+
 
 ![texto alternativo imagen](AqImagenesPC/examenjourney.png)
 
